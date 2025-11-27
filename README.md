@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Aspiring+Data+Engineer;Always+Learning+and+Building" alt="Typing Animation" />
+</p>
+
 <div align="center">
 
 # 🌟 Nishita Jain  
