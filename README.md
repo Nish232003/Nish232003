@@ -15,7 +15,7 @@ A detail-oriented learner blending analytical thinking with creativity.
 
 ---
 
-## 🔍 Profile Summary
+## 🔍 Profile
 Driven Data Science student with hands-on experience in machine learning, model development, and analytical workflows.  
 Currently strengthening expertise in **ML pipelines, PyTorch**, and **cloud-based systems**.  
 Beyond academics, I enjoy painting and working on creative projects that help me think visually and solve problems with clarity.
