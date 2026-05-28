@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nishita%20Jain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Integrated+M.Tech+%7C+Vellore+Institute+of+Technology+%E2%80%99+27;Data+Science+%7C+Machine+Learning+%7C+AI;Building+real-world+ML+pipelines;Always+learning+%26+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+real-world+ML+pipelines;Always+learning+%26+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
