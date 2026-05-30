@@ -171,14 +171,14 @@ ML pipeline for detecting fraudulent financial transactions.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nish232003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nish232003&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nish232003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nish232003&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nish232003&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nish232003&theme=tokyonight&hide_border=true&cache_seconds=0)](https://git.io/streak-stats)
 
 </div>
 
