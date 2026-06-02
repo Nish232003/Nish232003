@@ -29,7 +29,7 @@ class NishitaJain:
         self.name        = "Nishita Jain"
         self.degree      = "Integrated M.Tech — CSE (Data Science)"
         self.university  = "VIT Bhopal University | Batch of 2026"
-        self.cgpa        = 8.31
+        self.cgpa        = 8.38
         self.focus       = ["Machine Learning", "Deep Learning", "Data Engineering"]
         self.currently   = "Building ML pipelines & exploring computer vision"
         self.hobbies     = ["Painting 🎨", "Problem Solving", "Continuous Learning"]
